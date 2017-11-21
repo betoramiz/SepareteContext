@@ -1,0 +1,9 @@
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\bin\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.deps.json
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\bin\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\obj\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\obj\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.AssemblyInfoInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\obj\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.AssemblyInfo.cs
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\obj\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\bin\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\obj\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.CrossCutting.Idenity\obj\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.pdb

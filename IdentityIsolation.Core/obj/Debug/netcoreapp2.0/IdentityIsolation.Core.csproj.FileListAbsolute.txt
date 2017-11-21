@@ -1,0 +1,9 @@
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\bin\Debug\netcoreapp2.0\IdentityIsolation.Core.deps.json
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\bin\Debug\netcoreapp2.0\IdentityIsolation.Core.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\obj\Debug\netcoreapp2.0\IdentityIsolation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\obj\Debug\netcoreapp2.0\IdentityIsolation.Core.AssemblyInfoInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\obj\Debug\netcoreapp2.0\IdentityIsolation.Core.AssemblyInfo.cs
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\bin\Debug\netcoreapp2.0\IdentityIsolation.Core.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\obj\Debug\netcoreapp2.0\IdentityIsolation.Core.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\obj\Debug\netcoreapp2.0\IdentityIsolation.Core.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.Core\obj\Debug\netcoreapp2.0\IdentityIsolation.Core.csprojResolveAssemblyReference.cache

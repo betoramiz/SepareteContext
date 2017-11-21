@@ -1,0 +1,17 @@
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.API.deps.json
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.API.runtimeconfig.json
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.API.runtimeconfig.dev.json
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.API.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.API.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.Context.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.Core.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.Context.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.Core.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\obj\Debug\netcoreapp2.0\IdentityIsolation.API.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\obj\Debug\netcoreapp2.0\IdentityIsolation.API.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\obj\Debug\netcoreapp2.0\IdentityIsolation.API.AssemblyInfoInputs.cache
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\obj\Debug\netcoreapp2.0\IdentityIsolation.API.AssemblyInfo.cs
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\obj\Debug\netcoreapp2.0\IdentityIsolation.API.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\obj\Debug\netcoreapp2.0\IdentityIsolation.API.pdb
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.dll
+C:\Users\Alberto\Documents\Visual Studio 2017\Projects\IndetityIsolation\IdentityIsolation.API\bin\Debug\netcoreapp2.0\IdentityIsolation.CrossCutting.Idenity.pdb
